@@ -7,7 +7,7 @@ brew install cask heroku mongodb node postgresql rbenv
 
 echo "Brew Libraries Installed"
 
-brew cask install flycut google-chrome iterm2 slack spectacle visual-studio-code
+brew cask install flycut google-chrome iterm2 slack spectacle visual-studio-code mongodb-compass postman
 
 echo "Installed Development Programs"
 
